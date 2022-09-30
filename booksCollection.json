@@ -613,18 +613,6 @@
        "bookLink" : "https://kotlinlang.org/docs/books.html"
 
         }
-
-
-{
-    "id" : "912",
-  
-       "bookName" : "Elon Musk",
-  
-       "authorName" : "ASHLEE VANCE ",
-  
-       "bookLink" : "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiEn9q0yLz6AhWUNSsKHRdqBuwYABAGGgJzZg&ohost=www.google.com&cid=CAESa-D20b403yHw7JnXJR0qslg0bJwuuT0jiExasS0a1qqmwnkJKhs8X57FuZTHpjLdWc6I14hCT2rcHCWMYtFPNEHLTo84bkGPfxWWv1AeFdahkHUd17-snqRm7S_9AbpVWHEBRgz1rqkAFd-J&sig=AOD64_3zO8C8K19PqIf29H7FxPeA8Cz7dw&ctype=5&q=&ved=2ahUKEwiQr8-0yLz6AhUY73MBHSXnCn8Qww8oAnoECAQQCw&adurl= "
-},
-
  {
        "id" : "52",
   
@@ -822,19 +810,6 @@
    
  },
 
-  {
-  
-       "id" : "3232",
-  
-       "bookName" : "Heat and Mass transfer",
-  
-       "authorName" : "Techknowlge",
-  
-       "bookLink" : "www.Techknowlge.edu.in"
-  
-    },
-
-
 
 {
 
@@ -915,7 +890,6 @@
    
    "boolLink" : "https://www.amazon.in/Power-your-Subconscious-Mind/dp/8192910962/ref=asc_df_8192910962/?tag=googleshopdes-21&linkCode=df0&hvadid=396986422305&hvpos=&hvnetw=g&hvrand=7185990088350799283&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007789&hvtargid=pla-318314935106&psc=1&ext_vrnc=hi"
 },
-
 ]
 
   {    
@@ -1073,27 +1047,15 @@
       "bookLink": "https://anybookpdf.com"
 
    },
-   {
-  
-       "id" : "2244",
-  
-       "bookName" : "Mathematics",
-  
-       "authorName" : "Techpublication",
-  
-       "bookLink" : "www.Techpublication.edu.in"
-  
-    },
+{
 
- {
+      "id": "626",
 
-      "id": "8199",
+      "bookName": "Anna Karenina",
 
-      "bookName": "Design of Machine Elements",
+      "authorName": "Leo Tolstoy",
 
-      "authorName": "V. B. Bhandari",
-
-      "bookLink": "https://books.google.com/books/about/Design_of_Machine_Elements.html?id=f5Eit2FZe_cC"
+      "bookLink": "https://en.wikipedia.org/wiki/Anna_Karenina"
 
    },
 
